@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page. My name is Cherry 🍒.
+Welcome to my page. My name is Cherry! 🍒.
 
 Currently a Web Development student studying in Humber College, Toronto, Canada. 🇨🇦
 
