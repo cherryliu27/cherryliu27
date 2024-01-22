@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Welcome to my page. I'm Cherry🍒 , a Web Development student studying in Humber College. 
+Welcome to my page. My name is Cherry 🍒.
+
+Currently a Web Development student studying in Humber College, Toronto, Canada. 🇨🇦
 
 <!--
 **cherryliu27/cherryliu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
