@@ -2,7 +2,6 @@
 
 ## - About Me -
 - 🇭🇰 Born in Hong Kong 
-- 👩‍🎓 Majored in Business Management and Information Systems
 - 🇨🇦 Currently a student in Humber College, Toronto, Canada
 - 📚 Learning Web Development
 - 🍿 My hobbies are: watching movies tvshows and gaming
